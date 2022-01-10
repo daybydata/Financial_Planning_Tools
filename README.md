@@ -1,7 +1,7 @@
 # Financial_Planning_Tools
 This notebook contains some tools for financial prediction and planning. The program uses The Free Crypto API to pull crypto currency values and the  Alpaca API to assemble the last 3 years of data on daily closing values of stocks. It uses Monte Carlo simulations to forecast returns for a given portfolio and compare the returns for different portfolio weights and timeframes. The analysis uses data visualization and descriptive statistics to explore and compare scenarios.
 
-<img src="images/MC_30year_sim_plot.png" width="800" height="400">
+<img src="/images/MC_30year_sim_plot.png" width="800" height="400">
 
 ## Technologies
 
